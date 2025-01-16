@@ -1,4 +1,4 @@
-## Hi there 👋 / Merhaba
+## Hi there 👋 / Merhaba 👋
 
 <!--
 **ozcakirh/ozcakirh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hakkımda
+Merhaba! Ben [Adınız], çekirdekten yetişmiş deneyimli bir yazılımcıyım. Yazılım yolculuğuma Basic ile başlayıp, Visual Basic, Pascal, C, Delphi ve C# gibi çeşitli programlama dillerinde geniş bir deneyime sahibim. Veritabanı yönetimi için ise MSSQL kullanıyorum.
