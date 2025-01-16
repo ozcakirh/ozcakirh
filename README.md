@@ -46,7 +46,7 @@ Merhaba! Ben Hüseyin,
 
  As I participated in a project, I continued my progress with the Delphi programming language and SQL database management. 📊🖥️
 
- Currently, I am focused on the world of C# and Flutter in my career. 🚀
+ Currently, I am focused on the world of C# and Flutter/Dart in my career. 🚀
 
 
   
