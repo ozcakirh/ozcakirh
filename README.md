@@ -20,4 +20,4 @@ Merhaba! Ben Hüseyin,
 
   Çekirdekten yetişmiş deneyimli bir yazılımcı.
   
-  Yolculuğuma **<span style="color:blue;">**1989**</span> yılında , Programlamaya giriş , PL/I , PASCAL , C  dilleri ile başladım.
+  Yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I , PASCAL , C  dilleri ile başladım.
