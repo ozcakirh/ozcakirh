@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hakkımda
 Merhaba! Ben Hüseyin, 
 
-  Çekirdekten yetişmiş deneyimli bir yazılımcı.
+  **Çekirdekten yetişmiş, deneyimli bir yazılımcıyım**
   
   Yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I ,Turbo PASCAL , Turbo C  dilleri ile başladım.
 
