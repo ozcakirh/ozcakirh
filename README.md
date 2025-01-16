@@ -20,12 +20,15 @@ Merhaba! Ben Hüseyin,
 
   **Çekirdekten yetişmiş, deneyimli bir yazılımcıyım.**
   
-  Yazılım yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I ,Turbo PASCAL , Turbo C  dilleri ile başladım.
+  Yazılım yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I ,Turbo PASCAL ve Turbo C  dilleri ile başladım.
 
-  sonraları , GWBasic , QBasic , Visual Basic , derken yıl oldu **<span style="color:blue;">2000 Haziran ayı**</span> 
+  Sonrasında , GWBasic , QBasic , Visual Basic , derken yıl oldu **<span style="color:blue;">2000 Haziran ayı**</span> 
 
   dönüm noktasıydı benim için , onca hayat mücadelesi sonrası yeni bir umut !  **<span style="color:blue;">hayata tutunuş penceresi ....</span>***
 
   Bir proje içersinde yer almam ile birlikte , Delphi programlama dili  ve SQL Veritabanı ile ilerleyişim devam etti.
+
+  **Yolculuğuma <span style="color:blue;">**1989**</span> yılında, Programlamaya giriş, PL/I, Turbo Pascal, Turbo C dilleri ile başladım.**
+
 
   
