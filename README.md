@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Hakkımda
-Merhaba! Ben Hüseyin, çekirdekten yetişmiş deneyimli bir yazılımcıyım. Yazılım yolculuğuma ##1989 yılından , Programlamaya giriş , PL/I , PASCAL , C  dilleri ile başladım.
+Merhaba! Ben Hüseyin, çekirdekten yetişmiş deneyimli bir yazılımcıyım. Yazılım yolculuğuma ## 1989 yılından , Programlamaya giriş , PL/I , PASCAL , C  dilleri ile başladım.
