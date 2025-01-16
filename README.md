@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## Hakkımda
 Merhaba! Ben Hüseyin, 
 
-  **Çekirdekten yetişmiş, deneyimli bir yazılımcıyım**
+  **Çekirdekten yetişmiş, deneyimli bir yazılımcıyım.**
   
-  Yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I ,Turbo PASCAL , Turbo C  dilleri ile başladım.
+  Yazılım yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I ,Turbo PASCAL , Turbo C  dilleri ile başladım.
 
   sonraları , GWBasic , QBasic , Visual Basic , derken yıl oldu **<span style="color:blue;">2000 Haziran ayı**</span> 
 
