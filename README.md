@@ -24,7 +24,7 @@ Merhaba! Ben Hüseyin,
 
   sonraları , GWBasic , QBasic , Visual Basic , derken yıl oldu **<span style="color:blue;">2000 Haziran ayı**</span> 
 
-  dönüm noktasıydı benim için , onca hayat mücadelesi sonrası yeni bir umut  ** hayata tutunuş penceresi ....***
+  dönüm noktasıydı benim için , onca hayat mücadelesi sonrası yeni bir umut  ** <span style="color:blue;">hayata tutunuş penceresi ....</span>***
 
   Bir proje içersinde yer almam ile birlikte , Delphi programlama dili  ve SQL Veritabanı ile ilerleyişim devam etti.
 
