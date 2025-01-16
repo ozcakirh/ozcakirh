@@ -28,7 +28,9 @@ Merhaba! Ben Hüseyin,
 
   Bir proje içersinde yer almam ile birlikte , Delphi programlama dili  ve SQL Veritabanı ile ilerleyişim devam etti.
 
-  **Yolculuğuma <span style="color:blue;">**1989**</span> yılında, Programlamaya giriş, PL/I, Turbo Pascal, Turbo C dilleri ile başladım.**
+  <!-- **Yolculuğuma <span style="color:blue;">**1989**</span> yılında, Programlamaya giriş, PL/I, Turbo Pascal, Turbo C dilleri ile başladım.**-->
+
+  şu anda kariyerimde , C# dünyası ve Flutter mevcut ...
 
 
   
