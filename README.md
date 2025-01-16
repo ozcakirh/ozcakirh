@@ -22,4 +22,10 @@ Merhaba! Ben Hüseyin,
   
   Yolculuğuma **<span style="color:blue;">1989**</span> yılında , Programlamaya giriş , PL/I ,Turbo PASCAL , Turbo C  dilleri ile başladım.
 
-  sonraları , GWBasic , QBasic , Visual Basic , derken yıl oldu **<span style="color:blue;">2000 Haziran ayı**</span>
+  sonraları , GWBasic , QBasic , Visual Basic , derken yıl oldu **<span style="color:blue;">2000 Haziran ayı**</span> 
+
+  dönüm noktasıydı benim için , onca hayat mücadelesi sonrası yeni bir umut  ** hayata tutunuş penceresi ....***
+
+  Bir proje içersinde yer almam ile birlikte , Delphi programlama dili  ve SQL Veritabanı ile ilerleyişim devam etti.
+
+  
