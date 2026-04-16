@@ -39,25 +39,28 @@ HELLO: PROCEDURE OPTIONS(MAIN);
 END HELLO;
 ```
 
- program MerhabaDunya;
- { Turbo Pascal Örneği }
- uses crt;
- 
- begin
-    clrscr; { Ekranı temizler }
+### 2. Turbo PASCAL Örneği
+```pascal
+program MerhabaDunya;
+uses crt;
+begin
+    clrscr;
     writeln('Merhaba, Dunya!');
-    readln; { Kullanıcı bir tuşa basana kadar bekler }
- end.
+    readln;
+end.
+```
 
- #include <stdio.h>
- #include <conio.h>
- 
- /* Turbo C Örneği */
- void main() {
-     clrscr(); // Ekranı temizler
-     printf("Merhaba, Dunya!\n");
-     getch();  // Çıkış yapmadan önce bir tuşa basılmasını bekler
- }
+### 3. Turbo C Örneği
+```c
+#include <stdio.h>
+#include <conio.h>
+
+void main() {
+    clrscr();
+    printf("Merhaba, Dunya!\n");
+    getch();
+}
+```
 
   ----
   ## Hi there 👋
