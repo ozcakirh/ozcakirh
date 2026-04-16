@@ -32,6 +32,31 @@ Merhaba! Ben Hüseyin,
 
   şu anda kariyerimde , C# dünyası ve Flutter mevcut ...
 
+  /* PL/I Merhaba Dünya Örneği */
+ HELLO: PROCEDURE OPTIONS(MAIN);
+   PUT SKIP LIST('Merhaba, Dunya!');
+ END HELLO;
+
+ program MerhabaDunya;
+ { Turbo Pascal Örneği }
+ uses crt;
+ 
+ begin
+    clrscr; { Ekranı temizler }
+    writeln('Merhaba, Dunya!');
+    readln; { Kullanıcı bir tuşa basana kadar bekler }
+ end.
+
+ #include <stdio.h>
+ #include <conio.h>
+ 
+ /* Turbo C Örneği */
+ void main() {
+     clrscr(); // Ekranı temizler
+     printf("Merhaba, Dunya!\n");
+     getch();  // Çıkış yapmadan önce bir tuşa basılmasını bekler
+ }
+
   ----
   ## Hi there 👋
 
