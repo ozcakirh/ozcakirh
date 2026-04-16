@@ -32,10 +32,12 @@ Merhaba! Ben Hüseyin,
 
   şu anda kariyerimde , C# dünyası ve Flutter mevcut ...
 
-  /* PL/I Merhaba Dünya Örneği */
- HELLO: PROCEDURE OPTIONS(MAIN);
+### 1. PL/I Örneği
+```pli
+HELLO: PROCEDURE OPTIONS(MAIN);
    PUT SKIP LIST('Merhaba, Dunya!');
- END HELLO;
+END HELLO;
+```
 
  program MerhabaDunya;
  { Turbo Pascal Örneği }
