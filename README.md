@@ -33,7 +33,7 @@ Merhaba! Ben Hüseyin,
   şu anda kariyerimde , C# dünyası ve Flutter mevcut ...
 
 ### 1. PL/I Örneği
-(IBM tarafından geliştirilen, hem bilimsel hem de ticari hesaplamalar için tasarlanmış oldukça güçlü bir dildir.)
+(IBM tarafından geliştirilen, hem bilimsel hem de ticari hesaplamalar için tasarlanmış oldukça güçlü bir dildir.) -- Mazide Kaldı
 ```pli
 HELLO: PROCEDURE OPTIONS(MAIN);
    PUT SKIP LIST('Merhaba, Dunya!');
@@ -41,6 +41,7 @@ END HELLO;
 ```
 
 ### 2. Turbo PASCAL Örneği
+(80'li ve 90'lı yıllarda çok popüler olan, güçlü tip denetimi (strong typing) ile bilinen bir programlama dilidir.) -- Mazide Kaldı
 ```pascal
 program MerhabaDunya;
 uses crt;
@@ -52,6 +53,7 @@ end.
 ```
 
 ### 3. Turbo C Örneği
+(C dilinin klasik derleyicilerinden biridir. Modern C'den farkı, genellikle conio.h gibi kütüphanelerin sıkça kullanılmasıdır.) -- Hala Güçlü 
 ```c
 #include <stdio.h>
 #include <conio.h>
