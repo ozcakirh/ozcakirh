@@ -33,6 +33,7 @@ Merhaba! Ben Hüseyin,
   şu anda kariyerimde , C# dünyası ve Flutter mevcut ...
 
 ### 1. PL/I Örneği
+(IBM tarafından geliştirilen, hem bilimsel hem de ticari hesaplamalar için tasarlanmış oldukça güçlü bir dildir.)
 ```pli
 HELLO: PROCEDURE OPTIONS(MAIN);
    PUT SKIP LIST('Merhaba, Dunya!');
